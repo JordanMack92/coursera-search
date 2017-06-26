@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# coursera-search
+Ruby on Rails application I developed that allows the user to search Coursera's classes using the Coursera Open API.
+>>>>>>> c726d57bd3f760d186671c578201c08a75205c29
